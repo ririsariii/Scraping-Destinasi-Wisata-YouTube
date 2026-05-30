@@ -30,7 +30,7 @@ from googleapiclient.errors import HttpError
 # ============================================================
 # KONFIGURASI
 # ============================================================
-API_KEY = "AIzaSyAJ6H9OoW5_d6ojuqpxx1XqYCoIYNI871E"
+API_KEY = "YOUR_API"
 
 # Jumlah video per destinasi yang akan diambil komentarnya
 MAX_VIDEO_PER_DESTINASI = 10
