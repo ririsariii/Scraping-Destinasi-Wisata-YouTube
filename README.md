@@ -293,9 +293,6 @@ Dataset hasil scraping dapat digunakan untuk:
 
 **Yuliani Purwitasari**
 
-Fresh Graduate Information Systems
-Universitas Pembangunan Nasional "Veteran" Jawa Timur
-
 GitHub: https://github.com/ririsariii
 
 ---
